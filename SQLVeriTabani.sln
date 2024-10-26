@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLVeriTabani", "SQLVeriTabani\SQLVeriTabani.csproj", "{BB0413AA-4BB1-4066-8BA7-436CA002E208}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseCruid", "DatabaseCruid\DatabaseCruid.csproj", "{C6B10AB3-DE4B-4DB5-8477-3F8D9811AD64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB0413AA-4BB1-4066-8BA7-436CA002E208}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB0413AA-4BB1-4066-8BA7-436CA002E208}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB0413AA-4BB1-4066-8BA7-436CA002E208}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB0413AA-4BB1-4066-8BA7-436CA002E208}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6B10AB3-DE4B-4DB5-8477-3F8D9811AD64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6B10AB3-DE4B-4DB5-8477-3F8D9811AD64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6B10AB3-DE4B-4DB5-8477-3F8D9811AD64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6B10AB3-DE4B-4DB5-8477-3F8D9811AD64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2292877-813B-438F-87EF-583F5D82E23C}
+	EndGlobalSection
+EndGlobal
